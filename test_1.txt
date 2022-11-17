@@ -1,6 +1,7 @@
 #include<stdio.h>
 int main () {
-printf("Ethical hacking")
+printf("Ethical hacking");
 printf("I will be success git and github all problem");
+printf("First time use pull");
 return 0;
 }
