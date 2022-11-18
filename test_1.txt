@@ -3,6 +3,7 @@ int main () {
 printf("Ethical hacking");
 printf("I will be success git and github all problem");
 printf("First time use pull");
-printf("I am satisfied for anisul sir")
+printf("I am satisfied for anisul sir");
+peintf("I will face some problems");
 return 0;
 }
